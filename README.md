@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello World! I'm Shreya Pandey 👋
 
-<!--
-**shreya-pandey101/shreya-pandey101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+$ whoami
+```
 
-Here are some ideas to get you started:
+* 🎓 BCA Student
+* 💻 Aspiring Software Developer
+* 🌱 Currently learning Python & Web Development
+* 📊 Exploring Data Analytics
+* 🚀 Building projects and growing my skills
+* 📚 Passionate about learning new technologies
+* ✨ Believer in consistency over perfection
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
